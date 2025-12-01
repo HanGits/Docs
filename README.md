@@ -34,4 +34,4 @@
 | [도트마인스튜디오](https://dotsminestudio.kr/) | 메인 개발자 |
 | [루시스토어](https://store.lucystudio.kr/shop/1066382056482943027) | 셀러 |
 | 도스커뮤니티 | 개발 & 운영 |
-| 늪지대∀ | 일일 컨텐츠 제작 |
+| [늪지대∀](https://namu.wiki/w/%EC%95%85%EC%96%B4%ED%81%AC%EB%A3%A8) | 일일 컨텐츠 제작 |
